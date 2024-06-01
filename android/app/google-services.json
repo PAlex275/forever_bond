@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302753567704",
+    "project_id": "forever-bond",
+    "storage_bucket": "forever-bond.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302753567704:android:b78f9994483529f1f798ad",
+        "android_client_info": {
+          "package_name": "com.example.forever_bond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302753567704-j5a9n4gfd8pjoe2tmf685846ncgr67sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2q7Vi3xNPd3hg2cwCiyH_Y2K2bXuv_OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302753567704-j5a9n4gfd8pjoe2tmf685846ncgr67sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
